@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<style>
+    
+</style>
+<body>
+
+    <label >F:</label>
+    <input  id="f" ><br>
+    <label >C:</label>
+    <input  id="c" ><br>
+    <button>F TO C</button>
+    <button>C TO F</button>
+</body>
+</html>
